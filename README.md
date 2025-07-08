@@ -1,1 +1,3 @@
 # Password-Generator-in-Java
+
+This Java program uses Swing to create a simple graphical user interface (GUI) that allows the user to generate a secure password of a specified length. The user enters the desired password length in a text field, and upon clicking a button, the program generates a random password that includes a mix of *uppercase letters, lowercase letters, numbers, and symbols. The password is then displayed in a label or text area on the GUI. The randomness ensures the password is strong and hard to guess, making the program useful for creating secure credentials for websites or applications.
